@@ -1,10 +1,5 @@
 import { StyleSheet } from "react-native";
 
-/**
- * Vá até o final da palavra contendo o componente
- * que deseja importar e aperte CTRL + Espaço
- * neste caso
- */
 const styles = StyleSheet.create({
     container: {
         flex: 1,
