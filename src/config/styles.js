@@ -11,6 +11,14 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: "bold",
     },
+    input: {
+        marginBottom:10,
+        paddingHorizontal:10,
+        width: 200,
+        height: 40,
+        borderColor: "lavander",
+        borderWidth: 1,
+    }
 });
 
 export default styles;
